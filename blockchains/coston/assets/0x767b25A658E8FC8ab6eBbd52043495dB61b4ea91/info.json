@@ -1,0 +1,24 @@
+{
+    "name": "Wrapped Coston Flare",
+    "website": "https://bobtoken.io",
+    "description": "Nuke Wars is an NFT-based Metaverse game on the Binance Smart Chain, powered by radioactive deflation. In Nuke’s universe tokens and NFTs burn alike, giving the nukers the power and wealth to fight the common enemy.",
+    "explorer": "https://coston-explorer.flare.network/token/0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91/token-transfers",
+    "type": "ERC20",
+    "symbol": "WCFLR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
+    "tags": [
+        "deflationary"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/The_Real_Nuke_"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/nuketoken_lfg"
+        }
+    ]
+}
